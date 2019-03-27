@@ -25,7 +25,14 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = ""
   description = """
-  Detail coming soon...
+  Researched in Professor Maja Matarić’s Interaction Lab involving the following areas
+  
+  - Human Robot Interaction & Collaboration
+  - Human Computer Interaction
+  - Machine Learning
+  - Computer Vision
+  - Natural Language Processing
+  - Web development
   """
 
 [[experience]]
@@ -36,24 +43,12 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2017-08-01"
   description = """
-  Detail coming soon...
-  """
-
-[[experience]]
-  title = "Intern Software Engineer"
-  company = "Nox Limited"
-  company_url = "https://en.bignox.com/"
-  location = "Beijing, China"
-  date_start = "2016-06-01"
-  date_end = "2016-07-01"
-  description = """
-  Responsibilities include:
+  Developed an office automation website
   
-  * Analysing
-  * Modelling
-  * Deploying
-  
-  Detail coming soon...
+  - Developed an office automation software which
+  - Used Node.js, npm, Koa for server-side
+  - Used Angular for client-side
+  - Accessing and modifying database created automatically for the user
   """
 
 +++

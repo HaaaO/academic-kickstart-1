@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "Projects"
@@ -23,10 +23,10 @@
   url = "#featured"
   weight = 40
 
-[[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 50
+#[[main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 50
 
 [[main]]
   name = "Contact"
@@ -35,7 +35,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+ [[main]]
+    name = "CV"
+    url = "https://drive.google.com/file/d/1oAOGkY2FmW6SOBPwkvSkb-ANSilb6Smv/view?usp=sharing"
+    weight = 70
