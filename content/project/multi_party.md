@@ -13,7 +13,7 @@ summary = "Building computational model of trust for human-robot interaction in 
 tags = ["Robotics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://robotics.usc.edu/interaction/projects/desc2.php?name=multiparty_support"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

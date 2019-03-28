@@ -16,7 +16,7 @@ summary = "Providing different control interface for telepresence robot for K-12
 tags = ["Robotics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://robotics.usc.edu/interaction/sponsors/desc.php?name=nrikids"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -17,7 +17,7 @@ early movement practice
 tags = ["Computer Vision", "Machine Learning", "Robotics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://robotics.usc.edu/interaction/sponsors/desc.php?name=babies"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
