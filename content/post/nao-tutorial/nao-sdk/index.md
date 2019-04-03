@@ -1,6 +1,7 @@
 +++
 title = "NAO Dev Tutorial: NAOqi SDK"
-subtitle = "Introduction to NAOqi SDK :rocket:"
+# see https://gist.github.com/rxaviers/7360908 for complete list of supported emoji
+subtitle = "Introduction to NAOqi SDK"
 
 date = 2019-01-23T00:00:00
 lastmod = 2019-04-02T00:00:00
@@ -81,10 +82,10 @@ highlight_languages = ["bash", "python"]
 +++
 
 ## Before starting
-1. Make sure you have **Choregraphe suite** installed
+- Make sure you have **Choregraphe suite** installed
     - See [this tutorial](http://doc.aldebaran.com/2-1/getting_started/installing.html) for detail
 
-## Hello World Example
+<!--## Hello World Example-->
 ### Using Choregraphe
 - Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe.html)
 

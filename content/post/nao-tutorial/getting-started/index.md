@@ -1,6 +1,6 @@
 +++
-title = "NAO Dev Tutorial: Getting Started (ROS)"
-subtitle = "Physical NAO setup with ROS :rocket:"
+title = "NAO Dev Tutorial: Getting Started with NAO using ROS"
+subtitle = "NAO setup with ROS :robot:"
 
 date = 2019-01-23T00:00:00
 lastmod = 2019-04-02T00:00:00
@@ -89,9 +89,12 @@ Make sure you have installed all the dependencies and configured **PYTHONPATH** 
 ## Controlling Robot
 1. Turn on the robot. See [this guide](http://doc.aldebaran.com/2-1/nao/getting_out_of_the_box.html) for detail
 1. Start the robot bridge on your computer
+
     ```bash
-    $ roslaunch nao_bringup nao_full_py.launch nao_ip:=<robot_ip> roscore_ip:=<roscore_ip>
+    $ roslaunch nao_bringup nao_full_py.launch nao_ip:=<robot_ip> \
+    roscore_ip:=<roscore_ip>
     ```
+    
     This will start the robot's default configuration with the following publisher:
     - joint_states
     - tf
@@ -100,32 +103,44 @@ Make sure you have installed all the dependencies and configured **PYTHONPATH** 
     - left sonar
     - right sonar
     - microphone
+
 1. To visualize the robot, open **rviz**
+
     ```bash
     $ rosrun rviz rviz
     ```
+    
     1. In top bar, go to `File->Open Config`
     1. navigate to `<your catkin workspace>/src/nao_robot/nao_description/config` and open the file with **.rviz** extension
         - make sure you have [nao_meshes](http://wiki.ros.org/nao_meshes) installed
     1. you should see something similar to the below screenshot
         ![NAO rviz](http://wiki.ros.org/nao/Tutorials/Getting-Started?action=AttachFile&do=get&target=NaoRviz.png)
 1. Controlling the robot
-    1. run `$ rosnode list` to check if **/nao_walker** node is running
+    1. execute `rosnode list` to check if **/nao_walker** node is running
     1. To turn on the motors
+
         ```bash
         $ rosservice call /body_stiffness/enable "{}"
         ```
         To turn off the motors
+        
         ```bash
         $ rosservice call /body_stiffness/disable "{}"
         ```
+        
     1. once the motors are on, use the following command to move the robot in x-direction
+    
         ```bash
-        $ rostopic pub -1 /cmd_vel geometry_msgs/Twist '{linear: {x: 1.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}'
+        $ rostopic pub -1 /cmd_vel geometry_msgs/Twist \
+        '{linear: {x: 1.0, y: 0.0, z: 0.0}, \
+        angular: {x: 0.0, y: 0.0, z: 0.0}}'
         ```
+        
         To stop the robot, run:
         ```bash
-        $ rostopic pub -1 /cmd_vel geometry_msgs/Twist '{linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}'
+        $ rostopic pub -1 /cmd_vel geometry_msgs/Twist \
+        '{linear: {x: 0.0, y: 0.0, z: 0.0}, \
+        angular: {x: 0.0, y: 0.0, z: 0.0}}'
         ```
 
 ## Next: [NAOqi SDK Guide](/post/nao-tutorial/nao-sdk)
