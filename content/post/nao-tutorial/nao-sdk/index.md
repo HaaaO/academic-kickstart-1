@@ -1,5 +1,5 @@
 +++
-title = "NAO Dev Tutorial: NAOqi SDK"
+title = "NAO Tutorial: NAOqi SDK"
 # see https://gist.github.com/rxaviers/7360908 for complete list of supported emoji
 subtitle = "Introduction to NAOqi SDK"
 
@@ -10,7 +10,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-tags = ["Academic"]
+tags = ["Tutorial", "Robotics", "NAO"]
 summary = "This tutorial shows how to use NAOqi SDK"
 
 # Projects (optional).

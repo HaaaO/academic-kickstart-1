@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-tags = ["Academic"]
+tags = ["Tutorial", "Robotics", "NAO"]
 summary = "Installing NAOqi SDK and configure NAO with ROS."
 
 # Projects (optional).

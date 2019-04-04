@@ -1,15 +1,15 @@
 +++
-title = "NAO Dev Tutorial: Getting Started with NAO using ROS"
+title = "NAO Tutorial: Getting Started with NAO + ROS"
 subtitle = "NAO setup with ROS :robot:"
 
 date = 2019-01-23T00:00:00
-lastmod = 2019-04-02T00:00:00
+lastmod = 2019-04-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-tags = ["Academic"]
+tags = ["Tutorial", "Robotics", "NAO", "ROS"]
 summary = "This tutorial shows how to work with Physical NAO."
 
 # Projects (optional).
