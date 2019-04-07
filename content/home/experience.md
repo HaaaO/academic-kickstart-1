@@ -17,6 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Undergraduate Student Researcher"
+  company = "ICAROS Lab"
+  company_url = "<http://www.stefanosnikolaidis.net/join.html>"
+  location = "California"
+  date_start = "2019-04-05"
+  date_end = ""
+  description = """
+  Researched in Professor Stefanos Nikolaidis' ICAROS Lab involving the following areas
+  
+  - Human Robot Interaction
+  - Reinforcement Learning
+  - Computer Vision
+  - Affective Computing
+  - Natural Language Processing
+  """
+
 [[experience]]
   title = "Undergraduate Student Researcher"
   company = "Interaction Lab"
@@ -27,11 +45,10 @@ date_format = "Jan 2006"
   description = """
   Researched in Professor Maja Matarić’s Interaction Lab involving the following areas
   
-  - Human Robot Interaction & Collaboration
+  - Human Robot Interaction
   - Human Computer Interaction
   - Machine Learning
   - Computer Vision
-  - Natural Language Processing
   - Web development
   """
 

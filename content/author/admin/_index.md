@@ -15,7 +15,8 @@ role = "Undergraduate Student"
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [
 { name = "University of Southern California", url = "https://www.usc.edu/" },
-{ name = "USC Interaction Lab", url = "http://robotics.usc.edu/interaction/" }
+{ name = "Interaction Lab", url = "http://robotics.usc.edu/interaction/" },
+{ name = "ICAROS Lab", url = "http://www.stefanosnikolaidis.net/join.html" }
  ]
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +30,9 @@ interests = [
   "Robotics",
   "Computer Vision",
   "Machine Learning",
-  "Human-Robot Interaction"
+  "Human-Robot Interaction",
+  "Control Theory",
+  "Decision Theory"
 ]
 
 # Organizational groups that you belong to (for People widget)
