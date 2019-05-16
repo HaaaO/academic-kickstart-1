@@ -89,6 +89,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an undergraduate student in Computer Science at University of Southern California.
-My research interests include robotics, computer visions and human-robot interaction.
- 
+I am an undergraduate computer science student at the University of
+Southern California. I am interested in building robots that frees human from
+tedious tasks so that we can focus on things that matter. I am interested in
+computer vision, few-shot learning, reinforcement learning, and robotics in general.
