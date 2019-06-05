@@ -20,6 +20,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Student Researcher"
+  company = "IRIS Computer Vision Lab"
+  company_url = "<http://www-bcf.usc.edu/~nevatia/index.html>"
+  location = "California"
+  date_start = "2019-06-05"
+  date_end = ""
+  description = """
+  Researched in Professor Ram Nevatia's IRIS Computer Vision Lab involving the following areas
+  
+  - Visual Tracking and Detection
+  - Few-Shot Learning
+  - Meta Learning
+  """
+
+[[experience]]
+  title = "Undergraduate Student Researcher"
   company = "ICAROS Lab"
   company_url = "<http://www.stefanosnikolaidis.net/join.html>"
   location = "California"
