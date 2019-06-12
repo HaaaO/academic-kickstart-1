@@ -1,5 +1,5 @@
 +++
-title = "NAO Dev Tutorial: Installation"
+title = "NAO Tutorial: Installation"
 subtitle = "Installing NAOqi SDK and configure NAO with ROS :floppy_disk:"
 
 date = 2019-01-23T00:00:00
