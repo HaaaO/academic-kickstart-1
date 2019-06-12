@@ -17,7 +17,6 @@ organizations = [
 { name = "University of Southern California", url = "https://www.usc.edu/" },
 { name = "Interaction Lab", url = "http://robotics.usc.edu/interaction/" },
 { name = "ICAROS Lab", url = "http://www.stefanosnikolaidis.net/join.html" },
-{ name = "USC IRIS Computer Vision Lab", url = "http://www-bcf.usc.edu/~nevatia/index.html" }
  ]
 
 # Short bio (displayed in user profile at end of posts)
