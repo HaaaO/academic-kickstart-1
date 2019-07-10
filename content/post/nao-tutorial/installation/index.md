@@ -88,7 +88,7 @@ highlight_languages = ["bash", "python"]
 1. Download the following from [Aldebaran Community](https://community.aldebaran.com/en/resources/software) website \(*you need to register an account in order to download the files*\)
     - **pynaoqi-python-2.7-naoqi-2.1.2.x-linux64.tar.gz**
     - **naoqi-sdk-2.1.2.x-linux64.tar.gz**
-    - \[optional\] **choregraphe-suite-\[2.1.4 or 2.1.2\].x-linux64.tar**
+    - **_\[optional\]_** choregraphe-suite-\[2.1.4 or 2.1.2\].x-linux64.tar
     
 1. Execute the following command and replace **2.1.2.x** with the version you downloaded
 
@@ -96,7 +96,7 @@ highlight_languages = ["bash", "python"]
     ```bash
     $ mkdir ~/naoqi
     $ tar xzf <path to NAOqi C++ SDK>/naoqi-sdk-2.1.2.x-linux64.tar -C ~/naoqi/naoqi-sdk-2.1.2-linux64
-    $ tar xzf <path to NAOqi Python SDK>/pynaoqi-python2.7-2.1.2-linux64.tar -C ~/naoqi/naoqi-sdk-2.1.2-linux64
+    $ tar xzf <path to NAOqi Python SDK>/pynaoqi-python2.7-2.1.2.x-linux64.tar -C ~/naoqi/pynaoqi-python2.7-2.1.2-linux64
     ```
     
     Check the installation by executing NAOqi
@@ -145,10 +145,7 @@ highlight_languages = ["bash", "python"]
     ros-kinetic-camera-info-manager-py
     ```
 
-- Install the main package
-  ```bash
-  $ sudo apt-get install ros-kinetic-nao-robot
-  ```
+- Install the main package with `sudo apt-get install ros-kinetic-nao-robot`
 
 - Install packages for robot control
   ```bash
@@ -162,9 +159,7 @@ highlight_languages = ["bash", "python"]
 - Install packages for simulation
 
   *Notice: to install nao_meshes package, you need to agree the policy*
-  ```bash
-  $ sudo apt-get install ros-kinetic-rospack ros-kinetic-nao-meshes
-  ```
+  `sudo apt-get install ros-kinetic-rospack ros-kinetic-nao-meshes`
 
 ## Next: [Getting Started](/post/nao-tutorial/getting-started/)
 
