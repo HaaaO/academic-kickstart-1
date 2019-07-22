@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+#[[experience]]
+#  title = "Undergraduate Student Researcher"
+#  company = "IRIS Computer Vision Lab"
+#  company_url = "http://www-bcf.usc.edu/~nevatia/"
+#  location = "California"
+#  date_start = "2019-06-04"
+#  date_end = ""
+#  description = """
+#  Researched in Professor Ram Nevatia's IRIS Computer Vision Lab involving the following areas
+#  
+#  - Computer Vision
+#  - Meta Learning
+#  - Few-Shot Learning
+#  """
+
 [[experience]]
   title = "Undergraduate Student Researcher"
   company = "ICAROS Lab"
-  company_url = "<http://www.stefanosnikolaidis.net/join.html>"
+  company_url = "http://www.stefanosnikolaidis.net/join.html"
   location = "California"
   date_start = "2019-04-05"
   date_end = ""
   description = """
   Researched in Professor Stefanos Nikolaidis' ICAROS Lab involving the following areas
   
-  - Human Robot Interaction
-  - Reinforcement Learning
   - Computer Vision
-  - Affective Computing
+  - Multimodal Machine Learning
   - Natural Language Processing
+  - Human Robot Interaction
   """
 
 [[experience]]
   title = "Undergraduate Student Researcher"
   company = "Interaction Lab"
-  company_url = "<http://robotics.usc.edu/interaction/>"
+  company_url = "http://robotics.usc.edu/interaction/"
   location = "California"
   date_start = "2018-05-01"
   date_end = ""
@@ -47,15 +61,15 @@ date_format = "Jan 2006"
   
   - Human Robot Interaction
   - Human Computer Interaction
-  - Machine Learning
   - Computer Vision
+  - Transfer Learning
   - Web development
   """
 
 [[experience]]
   title = "Intern Full-Stack Engineer"
   company = "4Paradigm"
-  company_url = "<https://www.4paradigm.com/>"
+  company_url = "https://www.4paradigm.com/"
   location = "Beijing, China"
   date_start = "2017-06-01"
   date_end = "2017-08-01"
