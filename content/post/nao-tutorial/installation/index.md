@@ -18,7 +18,7 @@ summary = "Installing NAOqi SDK and configure NAO with ROS."
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["nao-tutorial/installation"]
+projects = ["multi_party"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

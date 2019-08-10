@@ -1,17 +1,17 @@
 +++
-title = "NAO Tutorial: NAOqi SDK"
+title = "Machine Learning Resources: Advanced"
 # see https://gist.github.com/rxaviers/7360908 for complete list of supported emoji
-subtitle = "Introduction to NAOqi SDK"
+subtitle = "For Researchers"
 
-date = 2019-01-23T00:00:00
-lastmod = 2019-04-02T00:00:00
-draft = false
+date = 2019-08-10T00:00:00
+lastmod = 2019-08-10T00:00:00
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-tags = ["Tutorial", "Robotics", "NAO"]
-summary = "This tutorial shows how to use NAOqi SDK"
+tags = ["Machine Learning", "Meta Learning", "GNN"]
+summary = "A list of useful resources for machine learning research"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -19,7 +19,7 @@ summary = "This tutorial shows how to use NAOqi SDK"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["multi_party"]
+# projects = ["nao-tutorial/nao-sdk"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -81,24 +81,9 @@ highlight_languages = ["bash", "python"]
 
 +++
 
-## Before starting
-- Make sure you have **Choregraphe suite** installed
-    - See [this tutorial](http://doc.aldebaran.com/2-1/getting_started/installing.html) for detail
-
-<!--## Hello World Example-->
-### Using Choregraphe
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe.html)
-
-### Using Python in Choregraphe
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe_script.html)
-
-### Using Dialog topic in Choregraphe
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe_dialog.htmll)
-
-### Using Python
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_python.html)
-
-
-### Reference
-- [Choregraphe Suite Installation](http://doc.aldebaran.com/2-1/getting_started/installing.html)
-- [Hello World 1 - using Choregraphe](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe.html)
+## Graph Neural Network
+- [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
+    
+## Meta Learning
+- Chelsea Finn, Pieter Abbeel: “Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks”, 2017; [arXiv:1703.03400.](https://arxiv.org/abs/1703.03400)
+- [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)

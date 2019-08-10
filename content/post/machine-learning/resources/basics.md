@@ -1,17 +1,17 @@
 +++
-title = "NAO Tutorial: NAOqi SDK"
+title = "Machine Learning Resources: Basics"
 # see https://gist.github.com/rxaviers/7360908 for complete list of supported emoji
-subtitle = "Introduction to NAOqi SDK"
+subtitle = "For Beginners"
 
-date = 2019-01-23T00:00:00
-lastmod = 2019-04-02T00:00:00
-draft = false
+date = 2019-08-10T00:00:00
+lastmod = 2019-08-10T00:00:00
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-tags = ["Tutorial", "Robotics", "NAO"]
-summary = "This tutorial shows how to use NAOqi SDK"
+tags = ["Machine Learning"]
+summary = "A list of useful resources for studying machine learning"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -19,7 +19,7 @@ summary = "This tutorial shows how to use NAOqi SDK"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["multi_party"]
+# projects = ["nao-tutorial/nao-sdk"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -81,24 +81,7 @@ highlight_languages = ["bash", "python"]
 
 +++
 
-## Before starting
-- Make sure you have **Choregraphe suite** installed
-    - See [this tutorial](http://doc.aldebaran.com/2-1/getting_started/installing.html) for detail
-
-<!--## Hello World Example-->
-### Using Choregraphe
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe.html)
-
-### Using Python in Choregraphe
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe_script.html)
-
-### Using Dialog topic in Choregraphe
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe_dialog.htmll)
-
-### Using Python
-- Follow [this tutorial](http://doc.aldebaran.com/2-1/getting_started/helloworld_python.html)
-
-
-### Reference
-- [Choregraphe Suite Installation](http://doc.aldebaran.com/2-1/getting_started/installing.html)
-- [Hello World 1 - using Choregraphe](http://doc.aldebaran.com/2-1/getting_started/helloworld_choregraphe.html)
+## Loss Functions
+### Cross Entropy Loss
+#### Kullback-Leibler Divergence
+- [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
