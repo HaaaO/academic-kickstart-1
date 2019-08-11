@@ -29,10 +29,10 @@ email = ""
 interests = [
   "Robotics",
   "Computer Vision",
-  "Machine Learning",
+  "Multimodal Machine Learning",
+  "AutoML",
+  "Few-Shot Learning",
   "Human-Robot Interaction",
-  "Control Theory",
-  "Decision Theory"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -41,14 +41,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BSc in Computer Science"
+  course = "MSc in Computer Science"
   institution = "University of Southern California"
   year = 2020
 
 [[education.courses]]
   course = "BSc in Computer Science"
-  institution = "University of Missouri-Columbia"
-  year = 2014
+  institution = "University of Southern California"
+  year = 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

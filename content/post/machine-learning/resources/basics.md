@@ -85,3 +85,7 @@ highlight_languages = ["bash", "python"]
 ### Cross Entropy Loss
 #### Kullback-Leibler Divergence
 - [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+
+## Generative Models
+### Autoencoder
+- [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
