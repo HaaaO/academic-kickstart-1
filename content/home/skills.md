@@ -19,8 +19,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine/Deep Learning"
   description = """
-  Computer Vision, Transfer Learning, Reinforcement Learning<br/>
-  TensorFlow, PyTorch, OpenCV
+  TensorFlow, PyTorch, Keras, OpenCV
   """
   
 [[feature]]

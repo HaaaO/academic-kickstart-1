@@ -80,11 +80,14 @@ caption = "Cupcake"
 highlight_languages = ["bash", "python"]
 
 +++
+## Probability & Information Theory
+### Basics
+- [Variance, Covariance, and Correlation](https://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
+#### Kullback-Leibler Divergence
+- [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 
 ## Loss Functions
 ### Cross Entropy Loss
-#### Kullback-Leibler Divergence
-- [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 
 ## Generative Models
 ### Autoencoder

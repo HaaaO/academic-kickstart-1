@@ -68,7 +68,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/ciketop/"
+  link = "https://www.linkedin.com/in/zijianhu/"
 
 #[[social]]
 #  icon = "google-scholar"
