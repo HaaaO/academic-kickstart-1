@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Undergraduate Student"
+role = "Undergraduate Machine Learning and Robotics researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -70,10 +70,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/zijianhu/"
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = ""
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=jQ9GwCoAAAAJ"
 
 [[social]]
   icon = "github"
@@ -92,3 +92,6 @@ user_groups = ["Researchers", "Visitors"]
 I am an undergraduate computer science student at the University of
 Southern California. I am interested in building robots that frees human from
 tedious tasks so that we can focus on things that matter.
+
+<sup>*My [CV](https://drive.google.com/file/d/1oAOGkY2FmW6SOBPwkvSkb-ANSilb6Smv/view?usp=sharing) was last updated on Sep 13, 2019*</sup>
+
