@@ -18,20 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[experience]]
-#  title = "Undergraduate Student Researcher"
-#  company = "IRIS Computer Vision Lab"
-#  company_url = "http://www-bcf.usc.edu/~nevatia/"
-#  location = "California"
-#  date_start = "2019-06-04"
-#  date_end = ""
-#  description = """
-#  Researched in Professor Ram Nevatia's IRIS Computer Vision Lab involving the following areas
-#  
-#  - Computer Vision
-#  - Meta Learning
-#  - Few-Shot Learning
-#  """
+[[experience]]
+  title = "Undergraduate Student Researcher"
+  company = "IRIS Computer Vision Lab"
+  company_url = "https://sites.usc.edu/iris-cvlab"
+  location = "California"
+  date_start = "2019-06-04"
+  date_end = ""
+  description = """
+  Researched in Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)'s IRIS Computer Vision Lab involving the following areas
+  
+  - Computer Vision
+  - Meta Learning
+  - Few-Shot Learning
+  """
 
 [[experience]]
   title = "Undergraduate Student Researcher"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-05"
   date_end = ""
   description = """
-  Researched in Professor Stefanos Nikolaidis' ICAROS Lab involving the following areas
+  Researched in Professor [Stefanos Nikolaidis](http://www.stefanosnikolaidis.net)' ICAROS Lab involving the following areas
   
   - Computer Vision
   - Multimodal Machine Learning
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = ""
   description = """
-  Researched in Professor Maja Matarić’s Interaction Lab involving the following areas
+  Researched in Professor [Maja Matarić](http://robotics.usc.edu/~maja/)’s Interaction Lab involving the following areas
   
   - Human Robot Interaction
   - Human Computer Interaction
