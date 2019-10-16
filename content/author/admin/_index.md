@@ -94,5 +94,5 @@ I am an undergraduate computer science student at the University of
 Southern California. I am interested in building robots that frees human from
 tedious tasks so that we can focus on things that matter.
 
-<sup>*My [CV](https://drive.google.com/file/d/1oAOGkY2FmW6SOBPwkvSkb-ANSilb6Smv/view?usp=sharing) was last updated on Sep 13, 2019*</sup>
+<sup>*My [CV](https://drive.google.com/file/d/1oAOGkY2FmW6SOBPwkvSkb-ANSilb6Smv/view?usp=sharing) was last updated on Oct 16, 2019*</sup>
 

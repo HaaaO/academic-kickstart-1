@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate Student Researcher"
   company = "ICAROS Lab"
-  company_url = "http://www.stefanosnikolaidis.net/join.html"
+  company_url = "https://icaros-web.herokuapp.com"
   location = "California"
   date_start = "2019-04-05"
   date_end = ""
