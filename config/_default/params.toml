@@ -50,7 +50,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zijianhu [at] usc dot edu"
+# Detail see https://sourcethemes.com/academic/docs/page-builder/#contact
+email = "zijianhu@usc.edu"
 phone = ""
 address = "Ronald Tutor Hall (RTH) 3710 McClintock Ave, Room 423. Los Angeles, CA 90089"
 

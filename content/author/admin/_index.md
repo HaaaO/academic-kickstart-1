@@ -16,7 +16,7 @@ role = "Undergraduate Machine Learning and Robotics researcher"
 organizations = [
 { name = "University of Southern California", url = "https://www.usc.edu/" },
 { name = "Interaction Lab", url = "http://robotics.usc.edu/interaction/" },
-{ name = "ICAROS Lab", url = "http://www.stefanosnikolaidis.net/join.html" },
+{ name = "ICAROS Lab", url = "https://icaros-web.herokuapp.com" },
 { name = "IRIS Computer Vision Lab", url = "https://sites.usc.edu/iris-cvlab" },
  ]
 
@@ -79,7 +79,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/ciketop"
+  link = "https://github.com/zijian-hu"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
